@@ -2,7 +2,7 @@
   <h1>Lista de Exercícios de Lógica de Programação em JavaScript</h1>
 </div>
 
-Esta é uma lista de exercícios de lógica de programação em JavaScript desenvolvida como parte do Curso FullStack do Grupo +PraTi. Os exercícios são destinados 
+Esta é uma lista de exercícios de lógica de programação em JavaScript desenvolvida como parte do Curso FullStack do Grupo +PraTi / Codifica. Os exercícios são destinados 
 a ajudar na prática de conceitos fundamentais de lógica de programação, utilizando recursos como prompt-sync, "loops" "for" e "while", condicionais "if" e "switch", entre outros.
 
 
