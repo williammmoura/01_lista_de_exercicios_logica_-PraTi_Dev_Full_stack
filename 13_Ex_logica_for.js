@@ -17,8 +17,16 @@ const calculateMultiplicationTable = (N) => {
     }
 }
 
-// Read 5 values for N and calculate the multiplication table for each
-for (let k = 0; k < 5; k++) {
-    N = parseInt(prompt("Enter a value for N:"));
-    calculateMultiplicationTable(N);
+let contador = 1;
+
+while(contador <= 5){
+    N = parseInt(prompt("Enter a numeric value:")); 
+    
+    if(!isNaN(N)) { //Input value validation
+        contador++;
+        calculateMultiplicationTable(N);
+    }else {
+        console.log("Please enter a valid number.");
+    }
 }
+
