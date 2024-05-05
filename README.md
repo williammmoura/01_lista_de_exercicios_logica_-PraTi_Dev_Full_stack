@@ -47,5 +47,5 @@ Cada exercício está contido em seu próprio arquivo JavaScript e pode ser exec
 ao exercício desejado e executar o código para ver o resultado.
 
 <h2>Contribuições</h2>
-Contribuições são bem-vindas! Se você deseja adicionar novos exercícios, otimizar soluções existentes ou corrigir possíveis erros, sinta-se à vontade para fazer um fork 
+Contribuições são bem-vindas! Se você deseja otimizar soluções existentes ou corrigir possíveis erros, sinta-se à vontade para fazer um fork 
 deste repositório, implementar suas mudanças e enviar um pull request.
