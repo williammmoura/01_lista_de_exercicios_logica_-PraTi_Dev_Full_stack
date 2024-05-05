@@ -3,7 +3,7 @@
 </div>
 
 Esta é uma lista de exercícios de lógica de programação em JavaScript desenvolvida como parte do Curso FullStack do Grupo +PraTi / Codifica. Os exercícios são destinados 
-a ajudar na prática de conceitos fundamentais de lógica de programação, utilizando recursos como prompt-sync, "loops" "for" e "while", condicionais "if" e "switch", entre outros.
+a ajudar na prática de conceitos fundamentais de lógica de programação, utilizando recursos como "prompt-sync", "loops" "for" e "while", condicionais "if" e "switch", entre outros.
 
 
 <h2>Estrutura da Lista de Exercícios</h2>
